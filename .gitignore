@@ -1,0 +1,6 @@
+build/
+vtkmat.egg-info/
+README.html
+.venv*/
+.vscode/
+vtkmat/__pycache__/
