@@ -8,18 +8,18 @@ This package was created to quickly extract geometry information and associated 
     :align: center
     :width: 350 px
     :alt: GUI of the vtkmat app. At the top is an input field labeled "Read file:" for the path to the vtk file and a button "Browse". Two checkboxes marked "Extract cells by type" and "Add arrays" follow below. Next, a list with a checkbox for each item follows. On the buttom there is another input field labeled "Save as:" for the path to the .mat file to be saved, followed by two buttons "Save" and "Browse". At the bottom right corner is "Close" button.
-
     Fig. 1: GUI of the app showing loaded file.
 
+|
 
 .. figure:: screenshot-mat.png
     :align: center
     :width: 300 px
     :alt: Workspace inside MATLAB showing a list of variables
-
     Fig. 2: Workspace in MATLAB showing variables after loading previously saved file.
 
 The package has been tested under the following operating systems:
+
 * Windows 11
 * Ubuntu 22.04.4 LTS
 
